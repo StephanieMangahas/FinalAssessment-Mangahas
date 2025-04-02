@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-02T21:54:31 PST" name="Default suite" finished-at="2025-04-02T21:54:53 PST" duration-ms="21615">
+    <groups>
+    </groups>
+    <test started-at="2025-04-02T21:54:31 PST" name="Default test" finished-at="2025-04-02T21:54:53 PST" duration-ms="21615">
+      <class name="test.OrderCompletionTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:31 PST" name="setUp" finished-at="2025-04-02T21:54:38 PST" duration-ms="6299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBackHomeButtonRedirectsToProductPage()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:38 PST" name="testBackHomeButtonRedirectsToProductPage" finished-at="2025-04-02T21:54:38 PST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackHomeButtonRedirectsToProductPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:38 PST" name="tearDown" finished-at="2025-04-02T21:54:38 PST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:38 PST" name="setUp" finished-at="2025-04-02T21:54:42 PST" duration-ms="4521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutCompletePageDetails()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:42 PST" name="testCheckoutCompletePageDetails" finished-at="2025-04-02T21:54:42 PST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutCompletePageDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:42 PST" name="tearDown" finished-at="2025-04-02T21:54:43 PST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:43 PST" name="setUp" finished-at="2025-04-02T21:54:47 PST" duration-ms="4571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFinishButtonNavigatesToCompletePage()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:47 PST" name="testFinishButtonNavigatesToCompletePage" finished-at="2025-04-02T21:54:47 PST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFinishButtonNavigatesToCompletePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:47 PST" name="tearDown" finished-at="2025-04-02T21:54:47 PST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:47 PST" name="setUp" finished-at="2025-04-02T21:54:53 PST" duration-ms="5279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUserLandsOnCheckoutCompletePage()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:53 PST" name="testUserLandsOnCheckoutCompletePage" finished-at="2025-04-02T21:54:53 PST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLandsOnCheckoutCompletePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.OrderCompletionTest@30c15d8b]" started-at="2025-04-02T21:54:53 PST" name="tearDown" finished-at="2025-04-02T21:54:53 PST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.OrderCompletionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

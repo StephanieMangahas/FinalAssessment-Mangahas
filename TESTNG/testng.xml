@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="test.LoginTest"/>
+      <class name="test.ProductListingTest"/>
+      <class name="test.CartFunctionalityTest"/>
+      <class name="test.ProductDetailTest"/>
+      <class name="test.CartPageTest"/>
+      <class name="test.CheckoutInformationTest"/>
+      <class name="test.CheckoutOverviewTest"/>
+      <class name="test.OrderCompletionTest"/>
+    </classes>
+  </test>
+</suite>
