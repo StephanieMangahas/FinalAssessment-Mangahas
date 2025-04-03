@@ -16,7 +16,7 @@ public class LoginTest {
     private WebDriverWait wait;
     private LoginPageObject loginPage;
     private ExcelReader excelReader;
-    private static final String FILE_PATH = "C:\\Users\\Stephanie Mangahas\\Downloads\\credentials.xlsx";
+    private static final String FILE_PATH = "src/data/credentials.xlsx"; 
     private static final String SHEET_NAME = "Login";
 
     @BeforeMethod
